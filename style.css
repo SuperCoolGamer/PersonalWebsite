@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+.lines {
+  height: 7px;
+  width: 100px;
+  background-color: black;
+  margin: 10px auto;
+}
+
+#Games {
+  background-color: red;
+}
+
+img {
+  border-width: 20px;
+  border-color: aquamarine;
+  border-style: solid;
+  margin: 20px;
+}
+
+h1 {
+  font-size: xx-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 10px;
+}
